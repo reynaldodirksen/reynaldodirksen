@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @reynaldodirksen
-- 👀 I’m interested in python
+- 👋 Hi, I’m Reynaldo Dirksen
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning mysql & python
 - 💞
 - 📫 How to reach me ...
