@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Reynaldo Dirksen
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning mqtt
-- 💞
 - 📫 How to reach me -> reynaldo.dirksen@signify.com
 
 <!---
